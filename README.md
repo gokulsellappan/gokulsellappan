@@ -24,8 +24,8 @@
 
 # 🌍 **Connect With Me**
 <p align="center">
-  <a href="https://twitter.com/gokul_sellappan">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48"/>
+  <a href="https://x.com/gokul_sellappan">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" width="48"/>
   </a>
   <a href="https://www.linkedin.com/in/gokul-sellappan-79b74b241/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
